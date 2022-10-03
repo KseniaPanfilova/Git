@@ -4,8 +4,6 @@ Here are git commands that I've mastered and can use in my work.
 
 The document is built on the principle of task - answer.
 
-### Work with brunches
-
 **1. Create following branches in the local repository:**
 - Postman
 - Jmeter
