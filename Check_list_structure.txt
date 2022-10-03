@@ -1,6 +1,0 @@
-Check list includes fields:
-- ID
-- summary (what we check)
-- status (passed, failed, skipped, not run, blocked)
-Also Check list can have environment description and be split into modules.
-
