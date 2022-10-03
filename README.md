@@ -1,6 +1,6 @@
 # Git
 
-Here are terminals commands that I've mastered and can use in my work.
+Here are git commands that I've mastered and can use in my work.
 
 The document is built on the principle of task - answer.
 
