@@ -56,7 +56,7 @@ touch Check_list_structure.txt
 **8. Push the document with Check list structure to the external repository**
 ```sh
 git add Check_list_structure.txt
-git commit -m "Add Check_list_structure.txt"
+git commit -m "Adding Check_list_structure.txt"
 git push
 ```
 
