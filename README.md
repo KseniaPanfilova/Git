@@ -34,20 +34,20 @@ git commit -m "Adding Bug_report_structure.txt"
 git push
 ```
 
-**5. Merge the Bug Reports branch into the Main brunch**
+**5. Merge the Bug Reports branch into the Main branch**
 ```sh
 git checkout main
 git merge Bug_Reports
 ```
 
-**6. Push the Main brunch to the external repository**
+**6. Push the Main branch to the external repository**
 ```sh
 git add Bug_report_structure.txt
 git commit -m "merege Bug Reports"
 git push
 ```
 
-**7. Create a text document with Check list structure in the CheckList brunch**
+**7. Create a text document with Check list structure in the CheckList branch**
 ```sh
 git checkout CheckLists
 touch Check_list_structure.txt
@@ -60,7 +60,7 @@ git commit -m "Adding Check_list_structure.txt"
 git push
 ```
 
-**9. Make Pull Request of the CheckList brunch into the Main brunch in the external repository**
+**9. Make Pull Request of the CheckList branch into the Main branch in the external repository**
 ```sh
 Pull request > Compare and pull request > Create pull request > Merge pull request > Confirm merge
 ```
